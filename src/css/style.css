@@ -1,0 +1,37 @@
+:root {
+    --palette-main-blue: #162AD8;
+    --palette-main-green: #30BF8B;
+    --palette-bg-gray: #b3b3bc;
+
+    --color-blue: var(--palette-main-blue);
+    --color-green: var(--palette-main-green);
+    --color-gray: var(--palette-bg-gray);
+
+    --font-h1: normal 700 48px/100% 'Montserrat', Arial, sans-serif;
+    --font-h2: normal 700 32px/100% 'Montserrat', Arial, sans-serif;
+    --font-h3: normal 700 24px/100% 'Montserrat', Arial, sans-serif;
+    --font-h4: normal 700 18px/100% 'Montserrat', Arial, sans-serif;
+    --font-p1: normal 400 24px/150% 'Montserrat', Arial, sans-serif;
+    --font-p2: normal 400 16px/150% 'Montserrat', Arial, sans-serif;
+
+    --heading1-font: var(--font-h1);
+    --heading2-font: var(--font-h2);
+    --heading3-font: var(--font-h3);
+    --heading4-font: var(--font-h4);
+    --paragraph1-font: var(--font-p1);
+    --paragraph2-font: var(--font-p2);
+    
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Montserrat";
+}
+
+@import './components/button.css';
+@import './components/quest_pict.css'

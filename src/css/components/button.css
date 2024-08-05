@@ -1,0 +1,13 @@
+.btn btn-outline {
+  font: var(--font-h3); 
+  background: linear-gradient(to right, #31CA85, #193AD0);
+  border: none;
+  text-transform: capitalize; 
+  letter-spacing: -2%;
+}
+.btn btn-primary {
+  background: linear-gradient(to right, #31CA85, #193AD0);
+  border: none;
+  text-transform: capitalize; 
+  letter-spacing: -2%; 
+}

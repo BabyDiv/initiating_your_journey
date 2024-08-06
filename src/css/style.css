@@ -19,8 +19,7 @@
     --heading3-font: var(--font-h3);
     --heading4-font: var(--font-h4);
     --paragraph1-font: var(--font-p1);
-    --paragraph2-font: var(--font-p2);
-    
+    --paragraph2-font: var(--font-p2);    
 }
 
 * {
@@ -32,6 +31,3 @@
 body {
     font-family: "Montserrat";
 }
-
-@import './components/button.css';
-@import './components/quest_pict.css'

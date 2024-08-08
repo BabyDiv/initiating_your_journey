@@ -1,7 +1,7 @@
 :root {
-    --palette-main-blue: #162AD8;
-    --palette-main-green: #30BF8B;
-    --palette-bg-gray: #b3b3bc;
+    --palette-main-blue: #1531B0;
+    --palette-main-green: #31CA85;
+    --palette-bg-gray: #f3f6fa;
 
     --color-blue: var(--palette-main-blue);
     --color-green: var(--palette-main-green);
@@ -10,7 +10,8 @@
     --font-h1: normal 700 48px/100% 'Montserrat', Arial, sans-serif;
     --font-h2: normal 700 32px/100% 'Montserrat', Arial, sans-serif;
     --font-h3: normal 700 24px/100% 'Montserrat', Arial, sans-serif;
-    --font-h4: normal 700 18px/100% 'Montserrat', Arial, sans-serif;
+    --font-h4: normal 700 20px/100% 'Montserrat', Arial, sans-serif;
+    --font-h5: normal 700 18px/100% 'Montserrat', Arial, sans-serif;
     --font-p1: normal 400 24px/150% 'Montserrat', Arial, sans-serif;
     --font-p2: normal 400 16px/150% 'Montserrat', Arial, sans-serif;
 
@@ -18,6 +19,7 @@
     --heading2-font: var(--font-h2);
     --heading3-font: var(--font-h3);
     --heading4-font: var(--font-h4);
+    --heading5-font: var(--font-h5);
     --paragraph1-font: var(--font-p1);
     --paragraph2-font: var(--font-p2);    
 }

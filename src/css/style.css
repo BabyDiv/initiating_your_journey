@@ -7,7 +7,7 @@
     --color-green: var(--palette-main-green);
     --color-gray: var(--palette-bg-gray);
 
-    --font-h1: normal 700 48px/100% 'Montserrat', Arial, sans-serif;
+    --font-h1: normal 700 44px/100% 'Montserrat', Arial, sans-serif;
     --font-h2: normal 700 32px/100% 'Montserrat', Arial, sans-serif;
     --font-h3: normal 700 24px/100% 'Montserrat', Arial, sans-serif;
     --font-h4: normal 700 20px/100% 'Montserrat', Arial, sans-serif;
@@ -28,6 +28,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    color: black;
 }
 
 body {
